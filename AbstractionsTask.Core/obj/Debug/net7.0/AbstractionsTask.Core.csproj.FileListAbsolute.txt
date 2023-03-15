@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\AbstractionsTask\AbstractionsTask.Core\bin\Debug\net7.0\AbstractionsTask.Core.deps.json
+C:\Users\HP\source\repos\AbstractionsTask\AbstractionsTask.Core\bin\Debug\net7.0\AbstractionsTask.Core.dll
+C:\Users\HP\source\repos\AbstractionsTask\AbstractionsTask.Core\bin\Debug\net7.0\AbstractionsTask.Core.pdb
+C:\Users\HP\source\repos\AbstractionsTask\AbstractionsTask.Core\obj\Debug\net7.0\AbstractionsTask.Core.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\AbstractionsTask\AbstractionsTask.Core\obj\Debug\net7.0\AbstractionsTask.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\AbstractionsTask\AbstractionsTask.Core\obj\Debug\net7.0\AbstractionsTask.Core.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\AbstractionsTask\AbstractionsTask.Core\obj\Debug\net7.0\AbstractionsTask.Core.AssemblyInfo.cs
+C:\Users\HP\source\repos\AbstractionsTask\AbstractionsTask.Core\obj\Debug\net7.0\AbstractionsTask.Core.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\AbstractionsTask\AbstractionsTask.Core\obj\Debug\net7.0\AbstractionsTask.Core.dll
+C:\Users\HP\source\repos\AbstractionsTask\AbstractionsTask.Core\obj\Debug\net7.0\refint\AbstractionsTask.Core.dll
+C:\Users\HP\source\repos\AbstractionsTask\AbstractionsTask.Core\obj\Debug\net7.0\AbstractionsTask.Core.pdb
+C:\Users\HP\source\repos\AbstractionsTask\AbstractionsTask.Core\obj\Debug\net7.0\ref\AbstractionsTask.Core.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "AbstractionsTask/1.0.0": {
+        "dependencies": {
+          "AbstractionsTask.Core": "1.0.0"
+        },
+        "runtime": {
+          "AbstractionsTask.dll": {}
+        }
+      },
+      "AbstractionsTask.Core/1.0.0": {
+        "runtime": {
+          "AbstractionsTask.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AbstractionsTask/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AbstractionsTask.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
